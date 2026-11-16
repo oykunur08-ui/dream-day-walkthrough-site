@@ -1,0 +1,138 @@
+{
+  "source": "Dreamday Onboarding Plans for Portal Adoption.mp4",
+  "durationSeconds": 344.256599,
+  "imageWidth": 1920,
+  "imageHeight": 904,
+  "coordinateUnits": "percent of complete uncropped image; top-left origin",
+  "steps": [
+    {
+      "id": "01-existing-context",
+      "image": "assets/frames/01-existing-context.png",
+      "timestampSeconds": 60,
+      "role": "Chris",
+      "title": "Start with what Chris already knows.",
+      "explanation": "Bring existing customer notes into the onboarding workflow instead of reconstructing discovery across a new set of fields.",
+      "chrisValue": "Less repeated preparation before a customer can get started.",
+      "highlight": {
+        "x": 23,
+        "y": 20,
+        "width": 72,
+        "height": 52
+      },
+      "alt": "Chris prototype view: Start with what Chris already knows."
+    },
+    {
+      "id": "02-onboarding-plan",
+      "image": "assets/frames/02-onboarding-plan.png",
+      "timestampSeconds": 85,
+      "role": "Chris",
+      "title": "Turn discovery into a plan people can use.",
+      "explanation": "The draft connects engineering problems to technical goals and a proposed first milestone, giving Chris something concrete to assess.",
+      "chrisValue": "Less work translating customer conversations into an onboarding plan.",
+      "highlight": {
+        "x": 22,
+        "y": 63,
+        "width": 76,
+        "height": 30
+      },
+      "alt": "Chris prototype view: Turn discovery into a plan people can use."
+    },
+    {
+      "id": "03-review-control",
+      "image": "assets/frames/03-review-control.png",
+      "timestampSeconds": 110,
+      "role": "Chris",
+      "title": "Save preparation time. Keep customer judgment.",
+      "explanation": "Chris can edit the draft and save changes before publishing. He can correct the interpretation while the relevant source context remains visible.",
+      "chrisValue": "A faster starting point that Chris can tailor before sharing.",
+      "highlight": {
+        "x": 23,
+        "y": 32,
+        "width": 71,
+        "height": 41
+      },
+      "alt": "Chris prototype view: Save preparation time. Keep customer judgment."
+    },
+    {
+      "id": "04-champion-handoff",
+      "image": "assets/frames/04-champion-handoff.png",
+      "timestampSeconds": 150,
+      "role": "Champion",
+      "title": "Give the champion a goal worth sharing.",
+      "explanation": "The customer-facing experience carries the published goal and first milestone into Portal, giving the champion a common starting point for the team.",
+      "chrisValue": "Chris’s customer understanding survives the handoff.",
+      "highlight": {
+        "x": 22,
+        "y": 28,
+        "width": 76,
+        "height": 33
+      },
+      "alt": "Champion prototype view: Give the champion a goal worth sharing."
+    },
+    {
+      "id": "05-team-visibility",
+      "image": "assets/frames/05-team-visibility.png",
+      "timestampSeconds": 185,
+      "role": "Champion",
+      "title": "Let the champion coordinate from recorded progress.",
+      "explanation": "The team view brings milestone completion, blockers and open questions together. In this recording these counts are still zero.",
+      "chrisValue": "The champion has a place to check team status before asking Chris to reconstruct it.",
+      "highlight": {
+        "x": 22,
+        "y": 38,
+        "width": 76,
+        "height": 53
+      },
+      "alt": "Champion prototype view: Let the champion coordinate from recorded progress."
+    },
+    {
+      "id": "06-developer-direction",
+      "image": "assets/frames/06-developer-direction.png",
+      "timestampSeconds": 215,
+      "role": "Developer",
+      "title": "Give developers a relevant place to begin.",
+      "explanation": "The developer sees the team’s engineering goal alongside a specific opportunity: record who owns payments-api’s code. The suggested work is connected to the customer objective.",
+      "chrisValue": "A clearer starting point reduces the need for Chris to explain every next step.",
+      "highlight": {
+        "x": 23,
+        "y": 58,
+        "width": 75,
+        "height": 38
+      },
+      "alt": "Developer prototype view: Give developers a relevant place to begin."
+    },
+    {
+      "id": "07-contextual-help",
+      "image": "assets/frames/07-contextual-help.png",
+      "timestampSeconds": 253,
+      "role": "Developer",
+      "title": "Keep technical questions close to the work.",
+      "explanation": "The AiKA-style prototype surface exposes context choices for onboarding, selected work, repository observations and team progress. This demonstrates the intended handoff to contextual assistance.",
+      "chrisValue": "A path toward resolving routine questions without making Chris the first stop.",
+      "highlight": {
+        "x": 35,
+        "y": 10,
+        "width": 48,
+        "height": 35
+      },
+      "alt": "Developer prototype view: Keep technical questions close to the work."
+    },
+    {
+      "id": "08-chris-follow-up",
+      "image": "assets/frames/08-chris-follow-up.png",
+      "timestampSeconds": 305,
+      "role": "Chris",
+      "title": "Give Chris a basis for a useful follow-up.",
+      "explanation": "The customer progress view brings the goal, milestone and recorded activity together. This demo shows no recorded adoption yet; it illustrates the information Chris can monitor as work is reported.",
+      "chrisValue": "A shared view of customer progress can help Chris decide what to ask and where to support.",
+      "highlight": {
+        "x": 22,
+        "y": 43,
+        "width": 76,
+        "height": 43
+      },
+      "alt": "Chris prototype view: Give Chris a basis for a useful follow-up."
+    }
+  ],
+  "highlightNotes": "Beat 01 height 40→52 to include the uploaded notes file; beat 03 height 23→41 to include the first sourced challenge. Verified against the rendered frames."
+}
